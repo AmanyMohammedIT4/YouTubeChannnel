@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352182160807",
+    "project_id": "gard-app",
+    "storage_bucket": "gard-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352182160807:android:ff022ad592645c73827a82",
+        "android_client_info": {
+          "package_name": "com.example.gard_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352182160807-d4ai1r7h2it3f2hg5vd3qdc33u2lv6m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwdt9QszH3CNiNisoNqkXKL9r-fp1awxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352182160807-d4ai1r7h2it3f2hg5vd3qdc33u2lv6m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
